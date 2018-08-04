@@ -14,4 +14,5 @@
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/HTTPEchoLibJava" type="4"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1533412877396_0" label="Window Working Set" name="Aggregate for window 1533412877396"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1533419583029_4" label="Window Working Set" name="Aggregate for window 1533419583029"/>
 </workingSetManager>

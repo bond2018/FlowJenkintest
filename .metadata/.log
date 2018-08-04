@@ -1025,3 +1025,58 @@ java.lang.NullPointerException
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
 	at org.eclipse.equinox.launcher.Main.main(Main.java:1414)
+!SESSION 2018-08-04 22:51:57.654 -----------------------------------------------
+eclipse.buildId=4.2.2.M20140918-1444
+java.fullversion=8.0.5.15 - pwa6480sr5fp15-20180502_01(SR5 FP15)
+JRE 1.8.0 Windows 10 amd64-64 Compressed References 20180425_385365 (JIT enabled, AOT enabled)
+OpenJ9   - a7ffbfe
+OMR      - a531219
+IBM      - 59ef3dc
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide tools_auto -showlocation -product com.ibm.etools.msgbroker.tooling.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide tools_auto -showlocation -product com.ibm.etools.msgbroker.tooling.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2018-08-04 22:52:01.841
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY org.eclipse.ui 2 2 2018-08-04 22:52:37.404
+!MESSAGE Invalid preference category path: com.ibm.importer.preferences (bundle: com.ibm.adapter.c, page: com.ibm.adapter.c.ui.preferencepage.CPreferencePage)
+
+!ENTRY org.eclipse.ui 2 2 2018-08-04 22:52:37.409
+!MESSAGE Invalid preference category path: com.ibm.debug.breakpoints.common.pref.tracepoint (bundle: com.ibm.debug.wsa, page: com.ibm.debug.wsa.WSATracepointPreferencePage)
+
+!ENTRY org.eclipse.ui 2 2 2018-08-04 22:52:37.410
+!MESSAGE Invalid preference category path: com.ibm.importer.preferences (bundle: com.ibm.etools.cobol.preference.ui, page: com.ibm.etools.cobol.preference.ui.preferencepage.CobolPreferencePage)
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2018-08-04 22:52:41.159
+!MESSAGE 
+
+!ENTRY org.eclipse.osgi 2 1 2018-08-04 22:52:49.363
+!MESSAGE NLS missing message: overrideSavedTrustStorePasswordDialogTitle in: com.ibm.etools.mft.broker.runtime.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-08-04 22:52:49.363
+!MESSAGE NLS missing message: overrideSavedTrustStorePasswordDialogDescription in: com.ibm.etools.mft.broker.runtime.messages
+
+!ENTRY com.ibm.mq.runtime 1 0 2018-08-04 22:53:04.380
+!MESSAGE 
+
+!ENTRY com.ibm.mq.runtime 1 0 2018-08-04 22:53:04.457
+!MESSAGE C:\Program Files\IBM\IIB\10.0.0.13\tools>mqsifindmqpath
+
+!ENTRY com.ibm.mq.runtime 1 0 2018-08-04 22:53:04.839
+!MESSAGE BIP8100I: Unable to detect an installation of WebSphere MQ 
+
+!ENTRY com.ibm.mq.runtime 4 0 2018-08-04 22:53:04.909
+!MESSAGE WebSphere MQ install location is not found.
+
+!ENTRY org.eclipse.osgi 2 1 2018-08-04 22:55:00.915
+!MESSAGE NLS unused message: SendMessage_msgNameLabel in: com.ibm.etools.mft.testmode.TestModeStrings
+
+!ENTRY org.eclipse.osgi 2 1 2018-08-04 22:55:00.915
+!MESSAGE NLS missing message: SendLastMessageAction_label in: com.ibm.etools.mft.testmode.TestModeStrings
+
+!ENTRY org.eclipse.osgi 2 1 2018-08-04 22:55:25.367
+!MESSAGE NLS unused message: DFDLXSDResourceBuilder_errorSchemaInAppImportSchemaInSharedLib in: com.ibm.etools.msg.builder.messages
+
+!ENTRY org.eclipse.osgi 2 1 2018-08-04 22:55:25.367
+!MESSAGE NLS unused message: DFDLXSDResourceBuilder_errorProjectReferenceIsMissing in: com.ibm.etools.msg.builder.messages
